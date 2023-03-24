@@ -1,1 +1,1 @@
-<?php echo 'false'; ?>
+<?php echo 'true'; ?>
